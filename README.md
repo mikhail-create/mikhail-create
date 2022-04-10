@@ -1,4 +1,4 @@
-<img src="images/Title.jpg" width="100%"/>
+<img src="images/Title.png" width="100%"/>
 
 ### My GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-create&show_icons=true&theme=radical)
