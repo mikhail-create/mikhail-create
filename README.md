@@ -12,8 +12,8 @@
 ### My GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhail-create&show_icons=true&theme=radical)
 
-<!-- ### My latest projects
+### My latest projects
 
 <a href="https://github.com/mikhail-create/omstu-ecab">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mikhail-create&repo=omstu-ecab&theme=radical" alt="codestats-profile-readme" />
-</a> -->
+</a>
