@@ -14,9 +14,9 @@
 
 ### My latest projects
 
-<a href="https://github.com/mikhail-create/omstu-ecab">
+<a href="https://github.com/mikhail-create/omstu-ecab" style="margin-right:12px">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mikhail-create&repo=omstu-ecab&theme=radical" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/mikhail-create/omstu-ecab">
+<a href="https://github.com/mikhail-create/crypter">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mikhail-create&repo=crypter&theme=radical" alt="codestats-profile-readme" />
 </a>
